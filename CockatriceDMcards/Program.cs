@@ -60,7 +60,7 @@ namespace CockatriceDMcards
             }
             catch (Exception ex)
             {
-                Console.WriteLine("Problem");
+                Console.WriteLine("Problem.");
                 throw ex;
             }
 
